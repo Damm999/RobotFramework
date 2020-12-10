@@ -1,2 +1,9 @@
 .idea
 Results
+venv
+__pycache__
+.idea
+robot
+lib/external_keywords/build
+lib/external_keywords/dist
+lib/external_keywords/rf_library.egg-info
